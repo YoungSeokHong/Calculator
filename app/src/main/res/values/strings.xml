@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">그리드레이아웃 계산기</string>
+    <string name="et_num1">숫자1 입력</string>
+    <string name="et_num2">숫자2 입력</string>
+</resources>
